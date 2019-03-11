@@ -1,3 +1,5 @@
 // Write your code in this file!
-if (scuberGreetingForFeet <= 400)
+if (scuberGreetingForFeet <= 400) {
+  console.log
+}
 scuberGreetingForFeet
