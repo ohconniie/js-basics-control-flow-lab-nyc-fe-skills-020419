@@ -7,4 +7,3 @@ if (someDistance <= 400) {
     return 'I will gladly take your thirty bucks.'
   }
 }
-}
