@@ -4,4 +4,4 @@ if (scuberGreetingForFeet <= 400) {
 }
 
 
-scuberGreetingForFeet = 199
+let scuberGreetingForFeet = 199
