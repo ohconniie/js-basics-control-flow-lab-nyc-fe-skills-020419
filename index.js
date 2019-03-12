@@ -17,3 +17,5 @@ if (someCity === 'NYC') {
   return 'No go.'
 }
 }
+
+function switchOnCharmFromTip() {
