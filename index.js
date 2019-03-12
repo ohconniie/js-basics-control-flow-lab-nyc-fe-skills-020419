@@ -17,4 +17,3 @@ if (someCity === 'NYC') {
   return 'No go.'
 }
 }
-}
