@@ -10,4 +10,4 @@ if (someDistance <= 400) {
   }
 }
 
-
+function ternaryCheckCity()
