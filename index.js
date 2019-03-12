@@ -22,5 +22,7 @@ function switchOnCharmFromTip(messageTip) {
   switch(messageTip) {
     case 'generous':
       return  'Thank you so much.';
+    case 'generous':
+  return  'Thank you so much.';
       
   }
