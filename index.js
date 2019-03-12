@@ -21,6 +21,6 @@ if (someCity === 'NYC') {
 function switchOnCharmFromTip(messageTip) {
   switch(messageTip) {
     case 'generous':
-      return  'Thank you so much.' }
+      return  'Thank you so much.';
       
   }
