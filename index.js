@@ -19,4 +19,6 @@ if (someCity === 'NYC') {
 }
 
 function switchOnCharmFromTip(messageTip) {
-  switch(messageTip)
+  switch(messageTip) {
+    case: 
+  }
