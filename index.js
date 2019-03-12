@@ -10,4 +10,7 @@ if (someDistance <= 400) {
   }
 }
 
-function ternaryCheckCity()
+function ternaryCheckCity(city)
+if (city ==="NYC") {
+  return  
+}
