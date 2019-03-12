@@ -13,5 +13,8 @@ if (someDistance <= 400) {
 function ternaryCheckCity(someCity) {
 if (someCity === 'NYC') {
   return  'Ok, sounds good.'
+} else {
+  return 'No go.'
+}
 }
 }
